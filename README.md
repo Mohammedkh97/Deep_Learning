@@ -101,8 +101,10 @@ Feel free to fork and adapt this repo to your own learning journey.
 
 This repository is actively maintained as part of my journey to master deep learning and share knowledge with the community.
 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/)  
-🐦 Follow updates on [Twitter](https://twitter.com/) *(optional)*
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohammed-khalaf97)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Mohamedkhalaf20172020@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com//groups/1241072483656472) <!-- Replace with your profile link -->
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+201022508443) <!-- Replace with your number -->
 
 ---
 
